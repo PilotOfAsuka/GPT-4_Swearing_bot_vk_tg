@@ -16,13 +16,13 @@ Make sure to install the required libraries using the following commands:
 pip install telebot
 pip install vkbottle
 pip install openai
-
-## 2. Set Up OpenAI API Key
+```
+### 2. Set Up OpenAI API Key
 Obtain your OpenAI API key from the [OpenAI website](https://www.openai.com/) and set it up as an environment variable:
 
 ```bash
 export OPENAI_API_KEY=your_api_key
-
+```
 
 ### 3. Clone the Repository
 
@@ -31,7 +31,7 @@ Clone this repository to your local machine:
 ```bash
 git clone https://github.com/your_username/gpt-4-swearing-bot.git
 cd gpt-4-swearing-bot
-
+```
 ### Usage
 
 Once the bot is running, it will automatically respond to messages with creative and humorous swearing. Invite the bot to your VK group or Telegram channel to enable swearing responses.
@@ -46,7 +46,7 @@ This bot is designed for entertainment purposes only. The developers are not res
 
 ### Contributing
 
-If you wish to contribute to the development of this bot, please open an issue or submit a pull request on the [GitHub repository](https://github.com/your_username/gpt-4-swearing-bot).
+If you wish to contribute to the development of this bot, please open an issue or submit a pull request on the [GitHub repository]([https://github.com/your_username/gpt-4-swearing-bot](https://github.com/PilotOfAsuka/GPT-4_Swearing_bot_vk_tg.git)https://github.com/PilotOfAsuka/GPT-4_Swearing_bot_vk_tg.git).
 
 Happy swearing!
 
